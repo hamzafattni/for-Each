@@ -1,0 +1,26 @@
+/* *{
+    background-color: black;
+    color: white;
+} */
+.submit{
+    /* margin-left: 40rem; */
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(186, 186, 244);
+    color: black;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 90px;
+}
+
+/* .hower-button{
+    background-color: aqua;
+    padding: 50px;
+} */
+
+.body{
+
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
